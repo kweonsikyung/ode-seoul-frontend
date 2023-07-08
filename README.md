@@ -1,16 +1,30 @@
-## 2023 서울열린데이터광장 공모전 우수상 수상작 - ODESEOUL🌳의 프론트 레포지토리
+<h3 align="center">
+  <img height="150" src="./public/assets/img/logo.svg" alt="Logo">
+  <br>Seoul Eco-Cultural Path Information Community
+</h3>
 
-시연영상 바로가기 ->[시연영상](https://drive.google.com/drive/folders/1_gP0x8Htxmt4qGbLaK3GHG-O5qCjNFow?usp=drive_link)  
-오디서울 배포링크 -> [배포](https://ode-seoul-frontend.vercel.app/)
+<h2>🌳 About ODE-SEOUL</h2>
+<img src="https://github.com/ODE-SEOUL/ode-seoul-frontend/assets/104986866/ba01e0b3-7bdb-4984-8148-6327308c5bd6" width="500px">
 
-![image](https://github.com/ODE-SEOUL/ode-seoul-frontend/assets/85864699/a21e6d92-78fa-48e0-b276-52cda3351b66)
-![image](https://github.com/ODE-SEOUL/ode-seoul-frontend/assets/85864699/267d5672-1157-4a88-ab97-830231b78e85)
++ 오디서울을 한 눈에 살펴보고 싶다면 [🎦click!](https://drive.google.com/drive/folders/1_gP0x8Htxmt4qGbLaK3GHG-O5qCjNFow?usp=drive_link)  
++ 오디서울 바로가기 [🖇️click!](https://ode-seoul-frontend.vercel.app/)
+  
+<h2>🌳 Front-end Stack</h2>
 
-## Commit Convention
 
-- **커밋 메시지 규칙**
-  - "commit convention": "commit message"
-  - 예시) feat: 소셜로그인 구현
++ Languange & Framework: <img src="https://img.shields.io/badge/TypeScript-3178C6?style=plastic-square&logo=TypeScript&logoColor=white"/>  <img src="https://img.shields.io/badge/Next.js-000000?style=plastic-square&logo=Next.js&logoColor=white"/>
++ Styling: <img src="https://img.shields.io/badge/Emotion-B4319E?style=plastic-square&logo=funimation&logoColor=white"/><br/>
++ State Manage: <img src="https://img.shields.io/badge/Recoil-0075EB?style=plastic-square&logo=React&logoColor=white"/> <img src="https://img.shields.io/badge/React Query-FF4154?style=plastic-square&logo=React Query&logoColor=white"/>
+
+<h2>🌳 DEV</h2> 
+
+📔 API Documentation : **https://ode-seoul.fly.dev/swagger-ui** (require an admin account)
+
+⚙️ Admin Tool : **https://ode-seoul.dev.njw.kr/admin** (require an admin account)
+
+✔️ Branch Convention `{접두사}/#{이슈 번호}_{이름}`
+
+✔️ Commit Convention ` "commit convention": "commit message" `
 
 | Tag Name  | Description                                                                                   |
 | :-------- | :-------------------------------------------------------------------------------------------- |
@@ -28,8 +42,7 @@
 | !BREAKING | CHANGE 커다란 API 변경의 경우                                                                 |
 | !HOTFIX   | 급하게 치명적인 버그를 고쳐야하는 경우                                                        |
 
-## Branch
 
-- **브랜치 규칙**
-  - `{접두사}/#{이슈 번호}_{이름}`
-  - 예시: feat/#23_social-login
+
+<h2>🌳Awards</h2>
+<img src="https://github.com/ODE-SEOUL/ode-seoul-frontend/assets/85864699/267d5672-1157-4a88-ab97-830231b78e85" width="500px">
